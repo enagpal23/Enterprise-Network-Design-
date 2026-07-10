@@ -15,6 +15,7 @@ This project demonstrates the design and implementation of a small enterprise ne
 ## Network Design
 Three departments were separated using VLANs:
 | VLAN | Department | Network |
+|------|------------|----------------|
 | 10 | HR | 192.168.10.0/24 |
 | 20 | Admin | 192.168.20.0/24 |
 | 30 | Staff | 192.168.30.0/24 |
@@ -41,5 +42,4 @@ This project strengthened my understanding of:
 
 ## Contents
 - Cisco Packet Tracer (.pkt) file
-- Project report (PDF)
-- Configuration screenshots
+- Project Report (PDF) containing the network design, configurations, testing and screenshots
