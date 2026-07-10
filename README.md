@@ -7,7 +7,7 @@ This project demonstrates the design and implementation of a small enterprise ne
 - Cisco Packet Tracer
 - VLANs
 - Router-on-a-Stick
-- DHCP & DHCP Relay
+- DHCP
 - DNS
 - HTTP Web Server
 - TCP/IP
